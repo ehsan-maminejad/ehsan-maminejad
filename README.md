@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehsan-maminejad
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m interested in Data Science, AI, Optimization, Predictive Modeling and Forecasting
 - 🌱 I’m always in learning mode!
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ehsan.maminejad@gmail.com
