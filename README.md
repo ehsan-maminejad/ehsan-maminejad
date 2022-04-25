@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ehsan-maminejad
 - 🧘‍♂️ A learner in a data and science journey. Maybe a data monk!
-- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ehsan.maminejad@gmail.com
 
 <!---
